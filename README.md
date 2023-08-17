@@ -1,5 +1,5 @@
 # Web-scraping
-# steps in web  scrapping automation 
+# steps in web  scrapping automation (philstar.com)
 1.  first you need to install the libraries and packages, this method, i use mainly python script 
 2. install selenium and chrome webdriver, and python pandas library 
 3. the webdriver script on the file must locate your downloaded webdriver ( path = ""), which depending in your OS system use 
